@@ -1,2 +1,2 @@
-# DiscordBotAltyap-
+# DiscordBotAltyapısı
 Discord Bot Altyapısı
